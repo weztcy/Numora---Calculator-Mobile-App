@@ -16,15 +16,30 @@ The project focuses on modern Android development practices, clean UI implementa
 
 ## ✨ Features
 
-* Basic calculator operations
+### 🔢 Basic Calculator
 
-* Addition, subtraction, multiplication, and division calculations
+* Basic arithmetic operations
+
+* Addition (+)
+
+* Subtraction (-)
+
+* Multiplication (×)
+
+* Division (÷)
 
 * Decimal number support
 
-* Clear and backspace input controls
+* Clear all input (AC)
 
-* Real-time expression and calculation result display
+* Backspace/delete input
+
+* Real-time expression display
+
+* Calculation result display
+
+
+### 🔬 Scientific Calculator
 
 * Scientific calculator mode
 
@@ -46,11 +61,23 @@ The project focuses on modern Android development practices, clean UI implementa
   * DEG
   * RAD
 
-* Premium dark-themed user interface
 
-* Circular calculator buttons with interactive feedback
+### 🎨 User Interface
+
+* Premium AMOLED dark-themed interface
+
+* Circular calculator buttons
+
+* Interactive button feedback
+
+* Haptic feedback interaction
+
+* Smooth scientific mode transition animation
 
 * Responsive layout support for different screen sizes
+
+* Auto-adjusting text size for long calculations
+
 
 ## 🛠️ Technologies
 
@@ -72,6 +99,7 @@ The main technologies used in this project are:
 
 * Gradle
 
+
 ## 🎯 Project Objectives
 
 This project was developed to:
@@ -91,6 +119,7 @@ This project was developed to:
 * Improve understanding of user interaction, animations, and responsive mobile interface design
 
 * Provide a foundation for future improvements such as calculation history, advanced scientific functions, and additional customization features
+
 
 ## 📜 License
 
