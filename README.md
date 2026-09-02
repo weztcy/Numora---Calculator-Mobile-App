@@ -1,4 +1,4 @@
-# 🧮 Calvora - Calculator Mobile App
+# Calvora - Calculator Mobile App
 
 **Calvora - Calculator Mobile App** is a modern Android calculator application developed using **Android Studio**, with **Kotlin** as the programming language and **Jetpack Compose** for designing the user interface.
 
