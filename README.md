@@ -1,60 +1,101 @@
-# Calculator Mobile App
+# 🧮 Calvora - Calculator Mobile App
 
-**Calculator Mobile App** is an Android application developed using **Android Studio** with **Java** as the programming language.
+**Calvora - Calculator Mobile App** is a modern Android calculator application developed using **Android Studio**, with **Kotlin** as the programming language and **Jetpack Compose** for designing the user interface.
 
-The application provides a simple and responsive interface for performing basic arithmetic operations directly on Android devices.
+The application provides basic and scientific calculation features with a clean, responsive, and premium user interface. Users can perform arithmetic calculations, access scientific functions, and interact with a modern calculator layout designed for a smooth mobile experience.
 
 ## 🧮 About the Project
 
-Calculator Mobile App was developed to provide a straightforward solution for performing common mathematical calculations through a mobile interface.
+Calvora was developed as a modern calculator application that provides users with an efficient and intuitive way to perform mathematical calculations through Android devices.
 
-Users can enter numerical values, select arithmetic operations, and view calculation results instantly within the application.
+The application supports basic arithmetic operations such as addition, subtraction, multiplication, and division, along with scientific calculation features including trigonometric functions, square root, power operations, factorial, and mathematical constants.
+
+The application presents calculations through a structured interface consisting of an expression display area and an interactive keypad. Users can switch between standard and scientific modes to access additional calculation functions.
+
+The project focuses on modern Android development practices, clean UI implementation, responsive layouts, reusable components, and smooth user interaction using Jetpack Compose.
 
 ## ✨ Features
 
-Key features and implementations include:
+* Basic calculator operations
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Numerical input handling
-* Dynamic calculation results
-* Clear and reset functionality
-* Interactive calculator buttons
-* Basic input validation
-* Simple and intuitive user interface
+* Addition, subtraction, multiplication, and division calculations
+
+* Decimal number support
+
+* Clear and backspace input controls
+
+* Real-time expression and calculation result display
+
+* Scientific calculator mode
+
+* Trigonometric functions:
+  * sin
+  * cos
+  * tan
+
+* Additional scientific operations:
+  * Square root (√)
+  * Power (^)
+  * Factorial (!)
+
+* Mathematical constants:
+  * π (Pi)
+  * e (Euler's number)
+
+* Angle mode support:
+  * DEG
+  * RAD
+
+* Premium dark-themed user interface
+
+* Circular calculator buttons with interactive feedback
+
+* Responsive layout support for different screen sizes
 
 ## 🛠️ Technologies
 
 The main technologies used in this project are:
 
 * Android Studio
-* Java
+
+* Kotlin
+
+* Jetpack Compose
+
+* Material 3 Design System
+
 * Android SDK
-* XML
+
+* MVVM Architecture
+
+* Kotlin StateFlow
+
+* Gradle
 
 ## 🎯 Project Objectives
 
 This project was developed to:
 
-* Provide a reliable mobile solution for basic arithmetic calculations
-* Deliver fast and responsive calculation processing
-* Maintain a simple and intuitive calculator interface
-* Provide clear interaction between numerical inputs and arithmetic operations
-* Implement structured input handling and validation
-* Maintain consistent interface behavior across application interactions
+* Develop a modern Android calculator application with basic and scientific calculation capabilities
 
-## 📱 Mobile Application
+* Apply Kotlin programming concepts in Android application development
 
-The application is designed for Android devices with a focus on simplicity, responsiveness, and ease of use.
+* Implement modern UI development using Jetpack Compose
 
-The interface provides direct access to common arithmetic operations while maintaining clear interaction flow and consistent visual behavior.
+* Understand declarative UI design and state management in Android applications
+
+* Create reusable UI components for calculator buttons and layouts
+
+* Implement MVVM architecture for better project organization and maintainability
+
+* Improve understanding of user interaction, animations, and responsive mobile interface design
+
+* Provide a foundation for future improvements such as calculation history, advanced scientific functions, and additional customization features
 
 ## 📜 License
 
-This project is maintained for portfolio, reference, and development purposes.
+This project is maintained for educational, portfolio, reference, and development purposes.
 
 ---
 
-**Calculator Mobile App — Android Application Using Java**
+**Calvora - Calculator Mobile App — Modern Android Calculator Application Using Kotlin & Jetpack Compose**
