@@ -1,12 +1,12 @@
-# Calvora - Calculator Mobile App
+# Numora - Calculator Mobile App
 
-**Calvora - Calculator Mobile App** is a modern Android calculator application developed using **Android Studio**, with **Kotlin** as the programming language and **Jetpack Compose** for designing the user interface.
+**Numora - Calculator Mobile App** is a modern Android calculator application developed using **Android Studio**, with **Kotlin** as the programming language and **Jetpack Compose** for designing the user interface.
 
 The application provides basic and scientific calculation features with a clean, responsive, and premium user interface. Users can perform arithmetic calculations, access scientific functions, and interact with a modern calculator layout designed for a smooth mobile experience.
 
 ## 🧮 About the Project
 
-Calvora was developed as a modern calculator application that provides users with an efficient and intuitive way to perform mathematical calculations through Android devices.
+Numora was developed as a modern calculator application that provides users with an efficient and intuitive way to perform mathematical calculations through Android devices.
 
 The application supports basic arithmetic operations such as addition, subtraction, multiplication, and division, along with scientific calculation features including trigonometric functions, square root, power operations, factorial, and mathematical constants.
 
@@ -127,4 +127,4 @@ This project is maintained for educational, portfolio, reference, and developmen
 
 ---
 
-**Calvora - Calculator Mobile App — Modern Android Calculator Application Using Kotlin & Jetpack Compose**
+**Numora - Calculator Mobile App — Modern Android Calculator Application Using Kotlin & Jetpack Compose**
