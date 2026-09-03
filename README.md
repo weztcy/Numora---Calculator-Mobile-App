@@ -123,8 +123,8 @@ This project was developed to:
 
 ## 📜 License
 
-This project is maintained for educational, portfolio, reference, and development purposes.
+This project is maintained for portfolio, reference, and development purposes.
 
 ---
 
-**Numora - Calculator Mobile App — Modern Android Calculator Application Using Kotlin & Jetpack Compose**
+**Numora — Calculator Mobile App Using Kotlin & Jetpack Compose**
