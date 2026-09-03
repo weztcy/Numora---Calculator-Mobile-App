@@ -123,7 +123,7 @@ This project was developed to:
 
 ## 📜 License
 
-This project is maintained for portfolio, reference, and development purposes.
+This project is maintained for portfolio, reference, and development purposes
 
 ---
 
